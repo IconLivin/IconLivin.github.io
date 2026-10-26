@@ -1,0 +1,11 @@
+likud|https://upload.wikimedia.org/wikipedia/commons/1/1f/Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg
+yashar|https://upload.wikimedia.org/wikipedia/commons/3/37/Gadi_Eisenkot_2_%28cropped%29.jpg
+byachad|https://upload.wikimedia.org/wikipedia/commons/9/96/Naftali_Bennett_official_portrait.jpg
+democrats|https://upload.wikimedia.org/wikipedia/commons/4/4b/Yair_Golan_%28SHL_9404%29.jpg
+joint|https://upload.wikimedia.org/wikipedia/commons/8/8a/Yousef_Jabareen_2021.png
+otzma|https://upload.wikimedia.org/wikipedia/commons/e/e9/Itamar_Ben_Gvir_3_%28cropped%29.jpg
+shas|https://upload.wikimedia.org/wikipedia/commons/d/d8/%D7%90%D7%A8%D7%99%D7%94_%D7%93%D7%A8%D7%A2%D7%99_2.jpg
+rzp|https://upload.wikimedia.org/wikipedia/commons/5/55/Bezalel_Smotrich.jpg
+utj|https://upload.wikimedia.org/wikipedia/commons/5/5c/Jacob_Asher_%28E32J026298%29.jpg
+beiteinu|https://upload.wikimedia.org/wikipedia/commons/0/06/Avigdor_Lieberman_2017.jpg
+raam|https://upload.wikimedia.org/wikipedia/commons/c/c6/Mansour_Abbas%2C_April_3_2023_%28cropped%29.jpg

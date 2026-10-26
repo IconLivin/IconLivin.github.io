@@ -1,0 +1,6 @@
+assets/portraits/_orig/
+assets/portraits/_sheet*.png
+scripts/models/
+.venv/
+*.log
+.DS_Store
